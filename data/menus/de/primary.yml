@@ -9,4 +9,8 @@ items:
   target: "/de/projets/"
   kind: page
   children: []
+- title: Actualités
+  target: "/de/actualites/"
+  kind: page
+  children: []
 
