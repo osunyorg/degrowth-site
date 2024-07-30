@@ -2,7 +2,7 @@
 
 en:
   title: >-
-    Site
+    Degrowth.info
   contentDir: content/en
   languageCode: en
   languageName: English
@@ -29,7 +29,7 @@ en:
     volume: volumes
 de:
   title: >-
-    Site
+    Degrowth.info
   contentDir: content/de
   languageCode: de
   languageName: Deutsch
@@ -56,7 +56,7 @@ de:
     volume: volumes
 fr:
   title: >-
-    Site
+    Degrowth.info
   contentDir: content/fr
   languageCode: fr
   languageName: Français
