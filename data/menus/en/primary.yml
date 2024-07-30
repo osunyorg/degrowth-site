@@ -21,4 +21,8 @@ items:
   target: "/en/organizations/"
   kind: page
   children: []
+- title: What is degrowth?
+  target: "/en/degrowth/"
+  kind: page
+  children: []
 
